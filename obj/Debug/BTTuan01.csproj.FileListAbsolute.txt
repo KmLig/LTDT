@@ -1,0 +1,8 @@
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\bin\Debug\BTTuan01.exe.config
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\bin\Debug\BTTuan01.exe
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\bin\Debug\BTTuan01.pdb
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\obj\Debug\BTTuan01.csproj.AssemblyReference.cache
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\obj\Debug\BTTuan01.csproj.SuggestedBindingRedirects.cache
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\obj\Debug\BTTuan01.csproj.CoreCompileInputs.cache
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\obj\Debug\BTTuan01.exe
+D:\CN-CNTT-FS\HK3\Lý thuyết đồ thị\Bài tập 1\BTTuan01\obj\Debug\BTTuan01.pdb
